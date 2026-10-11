@@ -9,7 +9,6 @@ build_src_filter = -<*> +<main_4.cpp>
 change 4 to 1 if you need version 1
 
 
-Фото без конденсатора
 
 Фото з конденсатором
 
